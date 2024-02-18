@@ -7,7 +7,7 @@ This resource is dedicated to providing information to get started and look-up i
 Several developers and organizations created tools which make LLMs accessible for local deployment. Below are some of the notable options:
 
 - **[JanFramework](https://twitter.com/janframework)**: User friendly UI with a limited model zoo.
-- **[Ollama](Ollama)**: Command line tool which is super easy to use.
+- **[Ollama](https://github.com/AidfulAI/localllama-guide/wiki/Ollama)**: Command line tool which is super easy to use.
 - **[LMStudioAI](https://twitter.com/LMStudioAI)**: Allows to browse and download models in different quantizations and even allows to partially ofload layers to a GPU for large models.
 - **GPT4All by [Nomic AI](https://twitter.com/nomic_ai)**: ChatGPT clone which even can integrate GPT-4 via API-key. Supports chatting with your documents
 - **Oobabooga**: Most flexible, but also complex and with that difficult to get started option.
